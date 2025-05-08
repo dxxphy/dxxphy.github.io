@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dxxphy.github.io</id>
+    <title>Librgod&apos;s soul cottage</title>
+    <updated>2025-05-08T14:28:59.460Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dxxphy.github.io"/>
+    <link rel="self" href="https://dxxphy.github.io/atom.xml"/>
+    <subtitle>苦海无涯学作舟</subtitle>
+    <logo>https://dxxphy.github.io/images/avatar.png</logo>
+    <icon>https://dxxphy.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Librgod&apos;s soul cottage</rights>
+    <entry>
+        <title type="html"><![CDATA[一个小面试]]></title>
+        <id>https://dxxphy.github.io/post/da-xue-chang-mian-shi/</id>
+        <link href="https://dxxphy.github.io/post/da-xue-chang-mian-shi/">
+        </link>
+        <updated>2025-05-08T14:21:02.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="一-紧张">一、紧张</h3>
+<p>紧张是无法避免的，每次遇到这种事都会有。但是只要意识到了，并且有意识的锻炼自己的心态就好。</p>
+<h3 id="二-面试经验">二、面试经验</h3>
+<p>回答问题前有很多想法，但是具体回答的时候却不能完美地阐述出来。原因是回答问题时老是忘记之前的想法，说着说着就忘了，最后只表达了部分观点，不能很好的展示自己，究其本质，是不敢卡壳，不敢在短暂遗忘后、片刻冷场后继续补充发言，其实这样并没有不好，只是我自己害怕且没有经验。<br>
+所以说，面试一定要在充足的准备后，大胆发言，<strong>不要怕短暂的卡壳和冷场</strong>，有短暂的思考很正常，一定要充分展现自己，把想说的都说出来！！！<br>
+另外此次发现<strong>准备纸笔</strong>很重要，可以随时记录想法（在空档期），设计回答结构和思路。</p>
+<h3 id="三-情绪">三、情绪</h3>
+<p>面试前的紧张，面试后因为不完美（观点未表达全）的失落，加起来控制了我近4小时。再一次成为了情绪的奴隶，影响了我除面试意外的计划（因没状态而虚度光阴）。还是要刻意训练自己，<strong>不要让情绪影响太多</strong>，要在有情绪时仍然能坚持专注手头的工作。</p>
+<h3 id="四-遗憾">四、遗憾</h3>
+<p>做什么事都不可避免的有遗憾，不完美才是常态，接纳不完美，汲取经验，下次会更好！</p>
+<hr>
+<p><strong>Librgod</strong><br>
+2025年夏 于塘朗</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[一篇关于学习规划的文章]]></title>
+        <id>https://dxxphy.github.io/post/yi-pian-guan-yu-xue-xi-gui-hua-de-wen-zhang/</id>
+        <link href="https://dxxphy.github.io/post/yi-pian-guan-yu-xue-xi-gui-hua-de-wen-zhang/">
+        </link>
+        <updated>2025-04-21T11:38:28.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="原文链接"><strong>原文链接</strong></h2>
+<p><a href="https://zhuanlan.zhihu.com/p/1894717955964646782">https://zhuanlan.zhihu.com/p/1894717955964646782</a></p>
+<h2 id="相关文章"><strong>相关文章</strong></h2>
+<p><a href="https://logikosto.feishu.cn/wiki/BFr8w8KByiI98akpvgRcx1RYnob?fromScene=spaceOverview">https://logikosto.feishu.cn/wiki/BFr8w8KByiI98akpvgRcx1RYnob?fromScene=spaceOverview</a></p>
+<hr>
+<blockquote>
+<p>一年前，我总是会有这样的疑问：我究竟应该是学深，还是学广呢？学深的话，虽然能够很快地得到某个领域的前沿知识，但是万一哪天这个领域不行了呢？到时候的退路在哪里呢？学广的话，虽然看上去像是样样都精通了，但是没有深入，也不会有较高的成就。<br>
+然而，当我有一天开始思考未来的发展方向的时候，却发现这样做未免太过激进——我没有给自己留下充足的后路，倘若等到我就业的时候，我研究的东西已经凉凉了，应该怎么办？我还有其他路径可以走吗？换句话说，这个社会的容错率真的容纳得下现在这样的我吗？想必是不能的。</p>
+</blockquote>
+<p>巧的是我也有过这样的疑惑。然而学广和学深都有一定的合理性和不合理性，由于精力有限，又不可能既要又要，必然要有所抉择。</p>
+<p>大一上学期，我想的是多多探索，找到真正喜欢且有前景的专业（南科大是大二/大三任选专业的），因此我的课程都没有选的很难也没有很多，我也有很多时间在社团，第一次接触了开发板、pid、焊接……从慢慢的熟悉使用电脑，到使用乌邦图，到调五连杆，虽然开始得艰难且缓慢，但确扩充了知识面。</p>
+<p>大一下学期，进入了理学院攀峰班后（之所以进入理学院的班，是因为对物理还有一些小小的执念&gt;_&lt;），忽然又觉得数理基础特别重要，觉得之前有些好高骛远，在前期应该打牢数理基础而非学一些看似好玩的东西，毕竟日后前沿的研究无不需要坚实的数理基础。</p>
+<p><em>然而</em>，以我学习的经历来说，似乎这个世界绝大部分的知识，只要讲述得当，多花时间，就一定能学会的。而长时间不去接触一样已经学会了的东西，是必然会部分遗忘的（不论是死记还是理解了的知识），<em><strong>因此仿佛学习知识本身并不是重点，如何快速掌握一门知识才是重点。</strong></em>（好像很有道理的亚子）</p>
+<p>***要想快速掌握知识，就要<strong>抓住主要“矛盾”</strong>（谨记教员教诲！），也即是<strong>抓住本质</strong>。观察身边聪明的同学，无不是快速抓住本质，学习事半功倍。一般来说，本质是需要花大量时间，在不断运用中提炼的。然而就像修仙（），靠前人传承就是一种捷径。现在这个时代，前人之述大都备矣（就很长一段时间内要学的东西而言）。因此，<strong>在学习一样东西的同时，要大量调研，找到合适的资源（视频，帖子，文档，前人思考……），加以AI的辅助（找资源，或者看看他的理解），并且在学习的途中，不断反问自己这些东西的本质是什么，为什么是这样的。</strong>（线性代数的学习让我有些体会）</p>
+<blockquote>
+<p>学习的本质——体系化学习是一种错觉，学习不等于记忆；学习思维<br>
+工作与学习——局部与整体，短期与长期，目的性与工具性（判断力）</p>
+<blockquote>
+<p>它里面所讲的工作与学习的关系，不正就是我所不得解的学深与学广的关系吗？我似乎可以把学习视作一个金字塔形状的结构：底层是代表了广度，而顶部则代表了高度。受限于社会形式，我们不得不去在底层未能牢实的基础上就开始深层次的探索；然而这不应该是我们放弃广度学习的理由——把路走宽永远是对的，深入学习（不管是现在正在进行的，还是未来将会发生的）一定会依赖于牢实的基础，which 需要通过广度的学习来补足；为了未来（可能的）解决一个更高纬度、更有意义的问题的时候，无论是广度，还是深度，都是不可或缺的一部分。</p>
+</blockquote>
+</blockquote>
+<p>其实也很好理解，广度和深度就是既要又要的。只是有一个时间上的先后。</p>
+<ol>
+<li>前期准备阶段，重点在于必然涉及的基础内容，比如ROS、各种编程语言、机器学习、深度学习……要像一块巨大的海绵汲取知识（某系主任语录）</li>
+<li>在学习这些的同时，也要对当下行业进行调研：有哪些方向？前景如何？需要哪些知识？</li>
+<li>大致选定方向后，在学习基础内容的同时，向该方向多了解学习（比如视觉、SLAM……）</li>
+</ol>
+<p>对我来说，还有两个月就要选择学术导师了，目前我了解较多的只有张宏老师的视觉和导航、郭书祥老师的仿生和三栖。（感觉时间有点晚了😓）</p>
+<blockquote>
+<p>不过可以大概讲讲我现在的想法：我准备找到一个方向深耕的同时，利用本科剩下的时光，努力打牢各个方面的基础，以备（研究生）将要毕业时能够毫不费力地追逐那时候的热点。</p>
+</blockquote>
+<hr>
+<p>无语，用快捷键会卡住，直接退出忘记保存了（啊啊啊），直接忘了开始写了啥，现在没手感了😡，下次有空再写</p>
+]]></content>
+    </entry>
+</feed>
